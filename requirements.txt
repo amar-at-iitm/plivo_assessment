@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+scikit-learn
+seqeval
+numpy
+tqdm
+faker
